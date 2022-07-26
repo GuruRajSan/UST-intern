@@ -1,6 +1,5 @@
-This is a compilation of the work-done as a UST intern in the summer of 2022-23.
-
-The work was mainly focused on detecting constuction helmets using YOLO models.
+This is a compilation of the work-done as a UST intern.<br />
+The work was on detecting constuction helmets using YOLO models.
 
 
 ### About the repository
