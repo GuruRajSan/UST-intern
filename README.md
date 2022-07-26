@@ -4,6 +4,5 @@ The work was mainly focused on detecting constuction helmets using YOLO models.
 
 
 ### About the repository
-Each folder above contains a set of notebooks.
-
-All notebooks present contain a description about themselves at the top.
+Each folder above contain a set of notebooks.
+All notebooks contain a description about themselves at the top.
