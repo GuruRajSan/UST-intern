@@ -4,5 +4,6 @@ Some theoretical notes about YOLO is [here](https://docs.google.com/document/d/1
 
 
 #### About the repository
-Each folder above contain a set of notebooks.
+Each folder above contain a set of notebooks.<br />
+The folder name describes the purpose of the notebooks present inside.<br />
 All notebooks contain a description about themselves at the top.
